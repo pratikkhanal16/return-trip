@@ -1,19 +1,9 @@
-﻿# Return Trip
+﻿# FloodLoop
 
-Relief boats bring food in during a flood. Return Trip has the same boats take sealed toilet buckets back out.
+Food goes in. Waste comes out. Every bag counted, from home to an approved site.
 
-This page tells the story of one family's bucket, RT-412. It goes from a flooded house, onto a relief boat, and on to a treatment site, where someone signs a receipt for it.
+FloodLoop is a clickable prototype with three screens: the household's LINE chat, the relief boat crew's phone, and the subdistrict dashboard.
 
-**Live page:** https://pratikkhanal16.github.io/return-trip/
+**Live app:** https://pratikkhanal16.github.io/return-trip/
 
-Built for the Youth Sanitation Innovation Hackathon 2026 (World Toilet Summit, AIT). The challenge area is sanitation during climate disruptions.
-
-This is an early concept. The story, the people and the numbers are examples, and no real waste is handled yet.
-
-## Put it online (GitHub Pages)
-1. Sign in to github.com, click **+**, then **New repository**. Name it `return-trip`, set it to **Public** and click **Create**.
-2. Click **uploading an existing file**. Drag in `index.html`, `README.md` and `.nojekyll`, then click **Commit changes**.
-3. Open **Settings**, then **Pages**. Under **Source**, choose **Deploy from a branch**. Set the branch to `main` and the folder to `/ (root)`, then click **Save**.
-4. Wait 1 to 2 minutes. The site will be at `https://pratikkhanal16.github.io/return-trip/`.
-5. Make the QR code: `python make_qr.py pratikkhanal16`
-
+Built for the Youth Sanitation Innovation Hackathon 2026 (World Toilet Summit, AIT), in the challenge area of sanitation during climate disruptions. All houses, names and numbers in the demo are illustrative.
