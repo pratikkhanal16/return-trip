@@ -14,6 +14,6 @@ This is an early concept. The story, the people and the numbers are examples, an
 1. Sign in to github.com, click **+**, then **New repository**. Name it `return-trip`, set it to **Public** and click **Create**.
 2. Click **uploading an existing file**. Drag in `index.html`, `README.md` and `.nojekyll`, then click **Commit changes**.
 3. Open **Settings**, then **Pages**. Under **Source**, choose **Deploy from a branch**. Set the branch to `main` and the folder to `/ (root)`, then click **Save**.
-4. Wait 1â€“2 minutes. The site will be at `https://pratikkhanal16.github.io/return-trip/`.
+4. Wait 1 to 2 minutes. The site will be at `https://pratikkhanal16.github.io/return-trip/`.
 5. Make the QR code: `python make_qr.py pratikkhanal16`
 
